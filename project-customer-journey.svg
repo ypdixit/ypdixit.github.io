@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+<rect width="1200" height="800" fill="#11182c"/>
+<text x="80" y="100" fill="#58d6c7" font-family="Arial" font-size="28" font-weight="700">CUSTOMER EXPERIENCE</text>
+<text x="80" y="155" fill="#fff" font-family="Arial" font-size="50" font-weight="700">A clearer path from request to resolution</text>
+<g transform="translate(80 280)" font-family="Arial">
+  <line x1="110" y1="110" x2="900" y2="110" stroke="#46526b" stroke-width="8" stroke-linecap="round"/>
+  <g transform="translate(0 0)"><circle cx="110" cy="110" r="68" fill="#58d6c7"/><text x="110" y="118" text-anchor="middle" fill="#07111c" font-size="24" font-weight="700">LISTEN</text><text x="110" y="220" text-anchor="middle" fill="#aeb8cc" font-size="21">Understand need</text></g>
+  <g transform="translate(260 0)"><circle cx="110" cy="110" r="68" fill="#8fb4ff"/><text x="110" y="118" text-anchor="middle" fill="#07111c" font-size="23" font-weight="700">CHECK</text><text x="110" y="220" text-anchor="middle" fill="#aeb8cc" font-size="21">Review details</text></g>
+  <g transform="translate(520 0)"><circle cx="110" cy="110" r="68" fill="#fff"/><text x="110" y="118" text-anchor="middle" fill="#172033" font-size="22" font-weight="700">SOLVE</text><text x="110" y="220" text-anchor="middle" fill="#aeb8cc" font-size="21">Choose action</text></g>
+  <g transform="translate(780 0)"><circle cx="110" cy="110" r="68" fill="#d9e7ff"/><text x="110" y="118" text-anchor="middle" fill="#172033" font-size="20" font-weight="700">FOLLOW UP</text><text x="110" y="220" text-anchor="middle" fill="#aeb8cc" font-size="21">Close the loop</text></g>
+</g>
+<g transform="translate(80 570)">
+<rect width="960" height="120" rx="24" fill="#17223a"/>
+<text x="40" y="48" fill="#aeb8cc" font-family="Arial" font-size="20">PROCESS GOAL</text>
+<text x="40" y="88" fill="#fff" font-family="Arial" font-size="30" font-weight="700">Reduce friction without removing the human side of service.</text>
+</g>
+</svg>

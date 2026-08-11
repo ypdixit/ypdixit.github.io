@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10263b"/><stop offset="1" stop-color="#10172a"/></linearGradient></defs>
+<rect width="1200" height="800" fill="url(#bg)"/>
+<text x="80" y="100" fill="#58d6c7" font-family="Arial" font-size="28" font-weight="700">DATA TRANSFORMATION</text>
+<text x="80" y="150" fill="#fff" font-family="Arial" font-size="52" font-weight="700">From raw inputs to useful decisions</text>
+<g transform="translate(90 260)" font-family="Arial">
+  <g><rect width="210" height="180" rx="24" fill="#172b43"/><text x="105" y="76" text-anchor="middle" fill="#fff" font-size="30" font-weight="700">RAW</text><text x="105" y="115" text-anchor="middle" fill="#aeb8cc" font-size="22">Files & inputs</text></g>
+  <path d="M230 90 H330" stroke="#58d6c7" stroke-width="10" stroke-linecap="round"/><path d="M315 72 L340 90 L315 108" fill="none" stroke="#58d6c7" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(360)"><rect width="210" height="180" rx="24" fill="#172b43"/><text x="105" y="76" text-anchor="middle" fill="#fff" font-size="30" font-weight="700">CLEAN</text><text x="105" y="115" text-anchor="middle" fill="#aeb8cc" font-size="22">Standardize</text></g>
+  <path d="M590 90 H690" stroke="#8fb4ff" stroke-width="10" stroke-linecap="round"/><path d="M675 72 L700 90 L675 108" fill="none" stroke="#8fb4ff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(720)"><rect width="210" height="180" rx="24" fill="#172b43"/><text x="105" y="76" text-anchor="middle" fill="#fff" font-size="30" font-weight="700">ACT</text><text x="105" y="115" text-anchor="middle" fill="#aeb8cc" font-size="22">Insights</text></g>
+</g>
+<g transform="translate(90 530)">
+<rect width="950" height="130" rx="26" fill="#0d1a2d" stroke="#ffffff" stroke-opacity=".12"/>
+<text x="40" y="55" fill="#aeb8cc" font-family="Arial" font-size="22">DESIGN PRINCIPLE</text>
+<text x="40" y="98" fill="#fff" font-family="Arial" font-size="32" font-weight="700">Automate repetitive work. Keep human judgment where it matters.</text>
+</g>
+</svg>
