@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+<rect width="1200" height="800" fill="#eef3f8"/>
+<text x="70" y="85" fill="#172033" font-family="Arial" font-size="38" font-weight="700">Financial Performance Dashboard</text>
+<text x="70" y="125" fill="#6d7a8f" font-family="Arial" font-size="22">A concise view of decision-relevant indicators</text>
+<g font-family="Arial">
+<g transform="translate(70 175)"><rect width="300" height="140" rx="22" fill="#fff"/><text x="28" y="45" fill="#6d7a8f" font-size="19">REVENUE TREND</text><text x="28" y="98" fill="#172033" font-size="42" font-weight="700">+8.4%</text></g>
+<g transform="translate(395 175)"><rect width="300" height="140" rx="22" fill="#fff"/><text x="28" y="45" fill="#6d7a8f" font-size="19">MARGIN</text><text x="28" y="98" fill="#172033" font-size="42" font-weight="700">24.7%</text></g>
+<g transform="translate(720 175)"><rect width="300" height="140" rx="22" fill="#fff"/><text x="28" y="45" fill="#6d7a8f" font-size="19">VARIANCE</text><text x="28" y="98" fill="#172033" font-size="42" font-weight="700">-2.1%</text></g>
+</g>
+<g transform="translate(70 350)">
+<rect width="625" height="330" rx="24" fill="#fff"/>
+<polyline points="55,250 145,215 235,225 325,160 415,175 505,100 575,70" fill="none" stroke="#2b7f75" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="55" y1="280" x2="575" y2="280" stroke="#d7dee8" stroke-width="2"/>
+<text x="40" y="45" fill="#172033" font-family="Arial" font-size="22" font-weight="700">Performance trend</text>
+</g>
+<g transform="translate(720 350)">
+<rect width="300" height="330" rx="24" fill="#fff"/>
+<text x="28" y="45" fill="#172033" font-family="Arial" font-size="22" font-weight="700">Category mix</text>
+<rect x="35" y="220" width="45" height="65" rx="8" fill="#9eb8e5"/><rect x="100" y="165" width="45" height="120" rx="8" fill="#72a0d8"/><rect x="165" y="110" width="45" height="175" rx="8" fill="#4c87bd"/><rect x="230" y="70" width="45" height="215" rx="8" fill="#2b7f75"/>
+</g>
+</svg>
